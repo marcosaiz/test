@@ -1,4 +1,0 @@
-Añadido otro fichero de prueba
-vamos a probar el pull request
-porque no va?
-otra prueba
